@@ -3,9 +3,13 @@
 Projeto realizado a partir do curso de Sring Boot API REST da Alura, simulando o ambiente de fórum da própria Alura aplicado ao Spring Boot e ao padrão de projeto MVC (model, view, controller).
 
 No padrão MVC, temos os eixos:
+
 Modelo: compõe a estrutura e gerencia o comportamento dos dados através de regras de negócios, lógica, funções, etc;
+
 View: apresenta as respostas das requisições solicitadas;
+
 Controller: onde o usuário pode interagir com a aplicação a partir de métodos e ações já definidas, fazendo a mediação entre entrada e saída de informações.
+
 
 As dependências utilizadas:
 Spring Web: composto pelo Spring MVC que nos fornece a estrutura e configurações adequadas para desenvolvermos uma aplicação MVC; contém também o TomCat, um servidor web voltado para Java; atuando juntamente com o Servlet, tendo como principal função lidar com as requisições HTTPs;
