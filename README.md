@@ -12,6 +12,7 @@ Controller: onde o usuário pode interagir com a aplicação a partir de método
 
 
 As dependências utilizadas:
+
 Spring Web: composto pelo Spring MVC que nos fornece a estrutura e configurações adequadas para desenvolvermos uma aplicação MVC; contém também o TomCat, um servidor web voltado para Java; atuando juntamente com o Servlet, tendo como principal função lidar com as requisições HTTPs;
 
 Spring Dev Tools: um facilitador para o desenvolvimento de aplicações Java, onde se dispensa a necessidade de reiniciar a aplicação para testes;
